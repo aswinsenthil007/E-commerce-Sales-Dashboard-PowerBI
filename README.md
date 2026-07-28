@@ -1,24 +1,86 @@
-# Flight Ticket Booking System
+# 📊 E-Commerce Sales & Customer Analytics Dashboard
 
-## Project Description
-This is a simple Flight Ticket Booking System developed using Python. It allows users to view available flights, select a flight, choose the number of passengers, calculate the total cost with tax, and confirm the booking.
+An interactive Power BI dashboard built using the Brazilian E-Commerce (Olist) dataset to analyze sales performance, customer behavior, product categories, and payment methods.
 
-## Features
-- View available flights
-- Select a flight
-- Enter passenger details
-- Calculate total fare with tax
-- Booking confirmation
-- Display booking summary
+---
 
-## Technologies Used
-- Python
-- Tkinter (GUI)
-- MySQL (Database)
+## 📌 Project Overview
 
-## How to Run
-1. Install Python.
-2. Install MySQL.
-3. Run the Python file.
-4. Book your flight.
+This dashboard provides business insights through interactive visualizations and KPIs, helping users understand sales trends and customer purchasing behavior.
 
+---
+
+## 🚀 Features
+
+- 📈 Total Sales KPI
+- 🛒 Total Orders KPI
+- 👥 Total Customers KPI
+- 💰 Average Order Value KPI
+- 📅 Sales Trend Analysis (2017–2018)
+- 🏆 Top 10 Product Categories by Products Sold
+- 🌆 Top 10 Cities by Sales
+- 💳 Sales Distribution by Payment Type
+- 🗺️ Total Sales by Customer State
+- 🎛️ Interactive Slicers
+  - Customer State
+  - Year
+  - Product Category
+  - Payment Type
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- CSV Dataset
+
+---
+
+## 📊 Key Metrics
+
+| KPI | Value |
+|------|--------|
+| Total Sales | 16.01M |
+| Total Orders | 99K |
+| Total Customers | 96K |
+| Average Order Value | 160.99 |
+
+---
+
+## 📷 Dashboard Preview
+
+> Add your dashboard screenshot here.
+
+Example:
+
+![Dashboard](Dashboard.png)
+
+---
+
+## 📁 Dataset
+
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- KPI Creation
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Interactive Reporting
+
+---
+
+## 👨‍💻 Author
+
+**Aswin**
+
+BCA Student | Aspiring Data Analyst
